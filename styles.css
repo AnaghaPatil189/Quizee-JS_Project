@@ -8,9 +8,20 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(back2.jpg);
+    background-image: url(back3.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
+    opacity: 70%;
+}
+
+h1{
+    font-weight: 2000;
+    opacity: 100%;
+}
+
+h2{
+    font-weight: 800;
+    opacity: 100%;
 }
 
 #game {
