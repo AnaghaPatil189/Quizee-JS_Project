@@ -8,6 +8,9 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-image: url(back2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 #game {
